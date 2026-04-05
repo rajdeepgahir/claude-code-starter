@@ -7,6 +7,17 @@ Taught by **Hamza Farooq** — Founder at Traversaal.ai · UCLA Anderson · ex-G
 
 ---
 
+## Get Started
+
+```bash
+git clone https://github.com/hamzafarooq/claude-code-starter.git
+cd claude-code-starter/module-1
+```
+
+Then open [module-1/README.md](module-1/README.md) and follow the setup guide.
+
+---
+
 ## What this repo is
 
 This is the **official central repository** for [Claude Code in Practice](https://maven.com/boring-bot/claude-code-in-practice). All course code, templates, skills, and resources live here. If you're a student, bookmark this page — come back here whenever you need code from class.
@@ -15,20 +26,20 @@ This is the **official central repository** for [Claude Code in Practice](https:
 
 ## Course Modules
 
-### Module 1 — From Idea to Shipped Product
+### [Module 1 — From Idea to Shipped Product](module-1/README.md)
 
 Set up Claude Code, configure your workspace, and go from blank page to a full PRD without writing code.
 
-**What you'll build:**
-- Your `CLAUDE.md` — a standing briefing that makes Claude context-aware for your project
-- Your first skills: `/prd-generator` and `/user-story-writer`
-- A live PRD builder app that runs in your browser
+**Assignments:**
+1. Set up your `CLAUDE.md` — a standing briefing that makes Claude context-aware for your project
+2. Install your first skills: `/prd-generator` and `/user-story-writer`
+3. Go from idea → PRD → MVP
 
 **Resources:**
-- [claude-code-in-practice/CLAUDE.md](claude-code-in-practice/CLAUDE.md) — template to customize for your project
-- [claude-code-in-practice/prd-generator/index.html](claude-code-in-practice/prd-generator/index.html) — open in browser, no install needed
-- [claude-code-in-practice/.claude/skills/prd-generator/](claude-code-in-practice/.claude/skills/prd-generator/SKILL.md) — PRD generator skill
-- [claude-code-in-practice/.claude/skills/user-story-writer/](claude-code-in-practice/.claude/skills/user-story-writer/SKILL.md) — user story skill
+- [module-1/README.md](module-1/README.md) — full setup guide and assignments
+- [module-1/CLAUDE.md](module-1/CLAUDE.md) — starter template to customize
+- [module-1/.claude/skills/prd-generator/SKILL.md](module-1/.claude/skills/prd-generator/SKILL.md) — PRD generator skill
+- [module-1/.claude/skills/user-story-writer/SKILL.md](module-1/.claude/skills/user-story-writer/SKILL.md) — user story skill
 
 ---
 
