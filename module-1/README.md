@@ -52,11 +52,11 @@ From inside the `module-1` folder:
 claude
 ```
 
-You're ready. Work through the three assignments below.
+You're ready. Work through the assignments below.
 
 ---
 
-## Assignment 1: Set up your CLAUDE.md
+## Assignment 1a: Set up your CLAUDE.md
 
 `CLAUDE.md` is a plain text file Claude reads at the start of every session. It tells Claude who you are, what your project is, and how to work with you. Without it, Claude treats every project the same. With it, you stop repeating yourself.
 
@@ -92,7 +92,7 @@ Claude should describe your project and role accurately. If it doesn't, open `CL
 
 ---
 
-## Assignment 2: Install your skills
+## Assignment 1b: Install your skills
 
 Skills are reusable instructions stored in `.claude/skills/`. You trigger them with a `/skill-name` command. Instead of typing the same long prompt every session, you type one word.
 
@@ -133,7 +133,7 @@ Mac tip: folders starting with `.` are hidden by default. Press `Cmd + Shift + .
 
 ---
 
-## Assignment 3: From idea to PRD to MVP
+## Assignment 1c (Bonus): From idea to PRD to MVP
 
 Take a real product idea through the full workflow: rough concept to structured PRD to working prototype.
 
