@@ -115,6 +115,8 @@ Then ask:
 What are the three riskiest assumptions in this PRD?
 ```
 
+**Want a visual PRD builder?** Open [prd-generator/index.html](prd-generator/index.html) in your browser. It's a standalone app powered by Claude — enter your API key, describe your feature, and it generates a structured PRD directly in the browser. Good alternative if you prefer a UI over the terminal.
+
 ### Part C: Break it into stories
 
 Run `/user-story-writer` with the must-have features from your PRD.
