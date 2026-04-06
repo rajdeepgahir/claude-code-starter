@@ -35,7 +35,7 @@ Open Claude Code in this folder and type:
 I'm a product manager. Help me create a CLAUDE.md file for my project. Ask me the questions you need to write a good one.
 ```
 
-Claude will ask a few questions and generate the file. A starter template is also in this folder at [CLAUDE.md](CLAUDE.md) if you'd rather edit directly.
+Claude will ask a few questions and generate the file. A starter template is also in this folder at [CLAUDE-template.md](CLAUDE-template.md) if you'd rather edit directly.
 
 ### Check that it's working
 
@@ -77,7 +77,7 @@ Then open [.claude/skills/prd-generator/SKILL.md](.claude/skills/prd-generator/S
 
 ```
 module-1/
-├── CLAUDE.md
+├── CLAUDE-template.md
 └── .claude/
     └── skills/
         ├── prd-generator/
